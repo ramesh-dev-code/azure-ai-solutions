@@ -1,7 +1,7 @@
 ## Use Case: Ticket Triage   
 
 ### Learning Objective    
-Create a multi-agentic workflow with purpose-built agents for prioritizing user's ticket, assigning team, and estimating efforts based on the ticket content      
+Create a multi-agentic workflow with purpose-built agents orchestrated by ConnectedAgentTool for prioritizing user's ticket, assigning team, and estimating efforts based on the ticket content      
 
 ### Prerequisites   
 * Create a [free account on Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account) to build AI solutions using Azure AI services
