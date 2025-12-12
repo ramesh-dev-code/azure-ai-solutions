@@ -1,4 +1,4 @@
-# Use Case: Ticket Triage 
+## Use Case: Ticket Triage 
 
 ### Prerequisites   
 * Create a [free account on Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account) to build AI solutions using Azure AI services
@@ -19,6 +19,8 @@ Prioritizes user's ticket, assigns team, and estimates efforts based on the cont
 * Create an agent thread to manage the context and agents  
 * Submit the prompt to AgentsClient using thread id   
 * Run the thread using the triage agent id and generate the response   
+
+Refer to this [link](https://learn.microsoft.com/en-in/training/modules/develop-multi-agent-azure-ai-foundry/) for more information on creating collaborative agentic workflow   
 
 ### Installation
 Create a Python virtual environment to install the dependencies   
