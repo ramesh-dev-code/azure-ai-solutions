@@ -1,7 +1,7 @@
 # Use Case: Ticket Triage 
 
 ### Prerequisites   
-Get a subscription to Microsoft Azure Cloud and create a resource group   
+Create a [free account on Azure](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account) to build AI solutions using Azure AI services      
 
 ### Key Functions   
 Prioritizes user's ticket, assigns team, and estimates efforts based on the content and complexity 
